@@ -8,7 +8,10 @@
 •	View payment – shows amount to be paid
 •	Search records – search for added/updated records in file
 •	Delete records – removes data permanently from file
-Defining our System: 
+
+## Defining our System: 
+![system](https://user-images.githubusercontent.com/83114282/132342934-2310ce06-dd2f-4b70-a543-13a7a4c1fa8d.jpeg)
+
  
    ## 4W’s and 1’H:
    
