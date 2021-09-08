@@ -12,6 +12,29 @@
 ## Defining our System: 
 ![system](https://user-images.githubusercontent.com/83114282/132342934-2310ce06-dd2f-4b70-a543-13a7a4c1fa8d.jpeg)
 
+## SWOT ANALYSIS
+## Strengths
+
+To reduce workload to staff.
+
+To reduce the delay in bill generation.
+
+To provide greater flexibility.
+
+## Weakness
+
+Late payments when network problem arises.
+
+## Opportunities
+
+Mobile services
+
+Cloud computing
+
+## Threats
+
+System Crash
+
  
    ## 4W’s and 1’H:
    
@@ -26,9 +49,9 @@ Telecom billing is the group of processes of communications service providers th
 When the plan of our validity expires.
 
 ## Where:
-This project can be used for various plans of phone billing.
+This project can be used in Telecom industries
 
-### How:
+## How:
 This project can perform various monthly plans of recharging the phone.
 
 ## Detail Requirement:
