@@ -1,6 +1,5 @@
 # TEST PLAN
 
-## Table no: High level test plan
 
 | **Test ID** | **Keys**|**Description** |**Expected O/P** | **Actual O/P** | Execution Status |
 |-------------|---------|----------------|-----------------|----------------|------------------|
